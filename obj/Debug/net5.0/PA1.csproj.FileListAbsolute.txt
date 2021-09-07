@@ -1,0 +1,15 @@
+/Users/jamesbrown/source/repos/PA1/bin/Debug/net5.0/PA1.deps.json
+/Users/jamesbrown/source/repos/PA1/bin/Debug/net5.0/PA1.runtimeconfig.json
+/Users/jamesbrown/source/repos/PA1/bin/Debug/net5.0/PA1.runtimeconfig.dev.json
+/Users/jamesbrown/source/repos/PA1/bin/Debug/net5.0/PA1.dll
+/Users/jamesbrown/source/repos/PA1/bin/Debug/net5.0/ref/PA1.dll
+/Users/jamesbrown/source/repos/PA1/bin/Debug/net5.0/PA1.pdb
+/Users/jamesbrown/source/repos/PA1/obj/Debug/net5.0/PA1.csproj.AssemblyReference.cache
+/Users/jamesbrown/source/repos/PA1/obj/Debug/net5.0/PA1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesbrown/source/repos/PA1/obj/Debug/net5.0/PA1.AssemblyInfoInputs.cache
+/Users/jamesbrown/source/repos/PA1/obj/Debug/net5.0/PA1.AssemblyInfo.cs
+/Users/jamesbrown/source/repos/PA1/obj/Debug/net5.0/PA1.csproj.CoreCompileInputs.cache
+/Users/jamesbrown/source/repos/PA1/obj/Debug/net5.0/PA1.dll
+/Users/jamesbrown/source/repos/PA1/obj/Debug/net5.0/ref/PA1.dll
+/Users/jamesbrown/source/repos/PA1/obj/Debug/net5.0/PA1.pdb
+/Users/jamesbrown/source/repos/PA1/obj/Debug/net5.0/PA1.genruntimeconfig.cache
